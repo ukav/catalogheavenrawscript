@@ -15,7 +15,7 @@ local myScreenGui = me:WaitForChild("PlayerGui")
 
 local gearIds = {68539623, 535104095, 65469908, 63253718, 83704165, 169602103}
 local gearNames = {"KorbloxSwordAndShield", "NeonNinjaSword", "SkullCracker", "SkullMace", "Icedagger"}
-local selectedGear = ""
+local selectedGear = "a"
 
 local quickSelectGearIds = {139577901, 1074738432, 93136746, 209980135, 93725362, 236442380}
 local quickSelectGearNames = {"FestivePeriastron", "GiganticBatWings", "TelamonsterTheChaosEdge", "NinjaSmokeBomb", "Sword of the Behemoth", "GearRecycler"}
